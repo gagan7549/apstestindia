@@ -1,0 +1,72 @@
+{
+  "heading": "Our Team",
+  "subheading": "They don’t chase credit. They deliver impact",
+  "description": "Experienced professionals, Providing exceptional service and expert",
+  "members": [
+    {
+      "id": 1,
+      "name": "Aditya Mishra",
+      "role": "Founder & Lead CA",
+      "img": "/office/aditya-mishra.png",
+      "bio": "A visionary Chartered Accountant with a passion for empowering businesses through clarity and compliance.",
+      "socials": {
+        "github": "",
+        "twitter": "https://twitter.com/aditya",
+        "instagram": "https://instagram.com/aditya",
+        "youtube": ""
+      }
+    },
+    {
+      "id": 2,
+      "name": "Vipin Kumar",
+      "role": "Sr. Tax Consultant",
+      "img": "/office/team.png",
+      "bio": "Focused on navigating complex tax landscapes to deliver maximum value to clients.",
+      "socials": {
+        "github": "",
+        "twitter": "https://twitter.com/vipin",
+        "instagram": "https://instagram.com/vipin",
+        "youtube": ""
+      }
+    },
+    {
+      "id": 3,
+      "name": "Jatin Kumar",
+      "role": "Audit & Compliance",
+      "img": "/office/team.png",
+      "bio": "A visionary Chartered Accountant with a passion for empowering businesses through clarity and compliance.",
+      "socials": {
+        "github": "",
+        "twitter": "https://twitter.com/jatin",
+        "instagram": "https://instagram.com/jatin",
+        "youtube": ""
+      }
+    },
+    {
+      "id": 4,
+      "name": "Rohit Kumar",
+      "role": "Finance Advisor",
+      "img": "/office/team.png",
+      "bio": "Specialist in financial strategy and wealth optimization for growing businesses.",
+      "socials": {
+        "github": "",
+        "twitter": "https://twitter.com/jatin",
+        "instagram": "https://instagram.com/jatin",
+        "youtube": ""
+      }
+    },
+    {
+      "id": 5,
+      "name": "Pratima Patil",
+      "role": "GST Expert",
+      "img": "/office/team.png",
+      "bio": "Expert in GST compliance and advisory with hands-on industry knowledge.",
+      "socials": {
+        "github": "",
+        "twitter": "https://twitter.com/jatin",
+        "instagram": "https://instagram.com/jatin",
+        "youtube": ""
+      }
+    }
+  ]
+}

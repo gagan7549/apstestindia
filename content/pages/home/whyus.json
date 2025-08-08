@@ -1,0 +1,37 @@
+
+{
+    "heading": "Why Choose Aditya Professional Services?",
+    "description": "We combine expertise with personalized service to deliver exceptional financial solutions.",
+    "list": [
+      {
+        "icon": "fas fa-chart-line",
+        "title": "10+ Years of Industry Experience",
+        "description": "With over a decade serving clients, we bring deep expertise to every engagement."
+      },
+      {
+        "icon": "fas fa-user-tie",
+        "title": "Expert CA & Legal Team",
+        "description": "Our qualified professionals stay current with evolving regulations."
+      },
+      {
+        "icon": "fas fa-rupee-sign",
+        "title": "Affordable Pricing Plans",
+        "description": "Competitive pricing tailored to your specific needs and budget."
+      },
+      {
+        "icon": "fas fa-shield-alt",
+        "title": "End-to-End Compliance Support",
+        "description": "Complete solutions from registration to ongoing compliance."
+      },
+      {
+        "icon": "fas fa-bolt",
+        "title": "Fast & Hassle-Free Process",
+        "description": "Efficient systems ensure your work gets done promptly."
+      },
+      {
+        "icon": "fas fa-handshake",
+        "title": "Personalized Financial Advice",
+        "description": "Tailored guidance to help optimize your financial position."
+      }
+    ]
+}

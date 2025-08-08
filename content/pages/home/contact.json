@@ -1,0 +1,30 @@
+{
+    "title": "Let's Talk About Your Financial Needs",
+    "description": "We're here to answer your questions and provide expert guidance. Fill out the form or contact us directly.",
+    "contactMethods": [
+      {
+        "type": "Email",
+        "icon": "fas fa-envelope",
+        "label": "Email Us",
+        "details": ["apstaxinfo@gmail.com"]
+      },
+      {
+        "type": "Phone",
+        "icon": "fas fa-phone-alt",
+        "label": "Call Us",
+        "details": ["+91-8826005367", "0120-4360696"]
+      },
+      {
+        "type": "Address",
+        "icon": "fas fa-map-marker-alt",
+        "label": "Visit Us",
+        "details": ["Noida, Uttar Pradesh, India"]
+      }
+    ],
+    "socialMedia": [
+      { "platform": "Facebook", "icon": "fab fa-facebook-f", "href": "#" },
+      { "platform": "Twitter", "icon": "fab fa-twitter", "href": "#" },
+      { "platform": "LinkedIn", "icon": "fab fa-linkedin-in", "href": "#" },
+      { "platform": "Instagram", "icon": "fab fa-instagram", "href": "#" }
+    ]
+  }

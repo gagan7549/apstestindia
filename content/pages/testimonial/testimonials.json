@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Rahul Sharma",
+    "role": "Ecommerce Business Owner",
+    "quote":
+      "The team completely transformed our financial systems. Their expertise saved us 30% in taxes while ensuring full compliance.",
+    "image": "https://placehold.co/80x80?text=Client"
+  },
+  {
+    "name": "Priya Patel",
+    "role": "Tech Startup Founder",
+    "quote":
+      "As a startup founder, their guidance was invaluable. They helped us structure our finances properly from day one.",
+    "image": "https://placehold.co/80x80?text=Client"
+  },
+  {
+    "name": "Anil Gupta",
+    "role": "Manufacturing Business",
+    "quote":
+      "Their attention to detail and proactive approach gives us complete peace of mind about our compliance.",
+    "image": "https://placehold.co/80x80?text=Client"
+  }
+]

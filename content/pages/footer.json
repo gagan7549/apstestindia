@@ -1,0 +1,70 @@
+ {
+    "title":"ADITYA PROFESSIONAL'S",
+    "description":"Aditya Professional Services Pvt. Ltd. (APS) is a trusted provider of accounting, taxation, compliance, and business registration services. We specialize in GST, income tax, company registrations, trademarks, and end-to-end financial solutions, helping businesses stay compliant and grow with confidence.",
+    "logo": "/logo.svg",
+    "companyinfo":{
+     "title": "Company Info",
+        "name": "Aditya Professional Services Pvt. Ltd.",
+        "address": "Ground Floor, Property KO-2, Singh Villa,\n Sector-49,Noida, G.B. Nagar, U.P. 201301",
+        "email": "apstaxinfo@gmail.com",
+        "phone": " +91 8826005367 |  01204360696"
+    },
+
+    "sections": [
+      {
+        "title": "Our Services",
+        "links": [
+          {
+            "label": "GST Registration, Return Filing & Litigation",
+            "href": "#"
+          },
+          {
+            "label": "Income Tax Return Filing & TDS Compliance",
+            "href": "#"
+          },
+          {
+            "label": "Company, LLP, OPC, NGO & Trust Registration",
+            "href": "#"
+          },
+          {
+            "label": "Trademark, MSME, IEC & FSSAI Licence",
+            "href": "#"
+          },
+          {
+            "label": "See All Services",
+            "href": "#"
+          }
+        ]
+      },
+      {
+        "title": "Quick Links",
+        "links": [
+          {
+            "label": "About Us",
+            "href": "/about"
+          },
+          {
+            "label": "Terms & Conditions",
+            "href": "/terms-and-conditions"
+          },
+          {
+            "label": "Privacy Policy",
+            "href": "/privacy-policy"
+          },
+          {
+            "label": "Contact Us",
+            "href": "/contact"
+          }
+        ]
+      }
+    ],
+  "social": {
+    "title":"Connect with us",
+    "links":[
+    { "label": "Facebook", "icon": "fab fa-facebook-f", "link": "https://facebook.com" },
+    { "label": "Twitter", "icon": "fab fa-x-twitter", "link": "https://twitter.com" },
+    { "label": "LinkedIn", "icon": "fab fa-linkedin-in", "link": "https://linkedin.com" }
+  ]
+},
+    "copyright": "© 2025 Aditya Professional Services. All rights reserved."
+  }

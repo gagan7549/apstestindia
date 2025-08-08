@@ -1,0 +1,18 @@
+{
+    "sectionId": "about-us",
+    "title": "About Aditya Professional Services Pvt. Ltd.",
+    "description": "Established in 2015, Aditya Professional Services is a Noida-based consultancy firm dedicated to providing comprehensive tax, accounting, legal, and registration services. Our mission is to simplify finance for individuals, SMEs, and growing businesses while ensuring full regulatory compliance.",
+    "image": {
+      "src": "office/test.webp",
+      "alt": "Professional CA team working in office"
+    },
+    "highlights": [
+      { "icon": "fas fa-check-circle", "text": "Registered Chartered Accountant firm" },
+      { "icon": "fas fa-check-circle", "text": "Recognized GST practitioner" },
+      { "icon": "fas fa-check-circle", "text": "Licensed company secretary services" }
+    ],
+    "buttons": [
+      { "label": "Learn More About Us", "icon": "fas fa-book-open", "href": "/about#" },
+      { "label": "Meet Our Team", "icon": "fas fa-users", "href": "/about#team-info" }
+    ]
+}

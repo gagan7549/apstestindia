@@ -1,0 +1,104 @@
+{
+    "list": 
+    [
+    {
+      "title": "Business Registration & Setup",
+      "img": {
+        "src":"/images/services/business-registration.svg",
+        "alt":"business-registration"
+      },
+      "points": [
+        "Private Limited Company, LLP, OPC registration",
+        "GST Registration & PAN/TAN application",
+        "Startup India Registration",
+        "Udyam (MSME) Registration",
+        "Import Export Code (IEC)"
+      ],
+      "cta": "Book Free Startup Consultation"
+    },
+    {
+      "title": "Income Tax & Financial Planning",
+      "img": "/images/services/tax-planning.svg",
+      "points": [
+        "Individual & Corporate ITR Filing",
+        "Tax Savings & Investment Advisory",
+        "Capital Gains Tax Planning",
+        "Advance Tax Computation",
+        "TDS Returns & Compliance"
+      ],
+      "cta": "Optimize My Taxes"
+    },
+    {
+      "title": "GST Compliance",
+      "img": "/images/services/gst-compliance.svg",
+      "points": [
+        "Monthly/Quarterly GST Return Filing",
+        "GST Reconciliation & Audit",
+        "E-Invoicing & E-Way Bill Generation",
+        "GST Registration & Migration",
+        "LUT Filing for Exporters"
+      ],
+      "cta": "Get GST Compliant"
+    },
+    {
+      "title": "Accounting & Bookkeeping",
+      "img": "/images/services/accounting-bookkeeping.svg",
+      "points": [
+        "Monthly/Quarterly Bookkeeping",
+        "Bank Reconciliation",
+        "Ledger Scrutiny & Trial Balance",
+        "Payroll Processing",
+        "MIS Reporting for Management"
+      ],
+      "cta": "Streamline My Accounting"
+    },
+    {
+      "title": "ROC & MCA Filings",
+      "img": "/images/services/roc-filing.svg",
+      "points": [
+        "Annual ROC Filings (AOC-4, MGT-7)",
+        "Director KYC (DIR-3 KYC)",
+        "Company Name Change, Address Change",
+        "Share Allotment & Transfer",
+        "Company Closure (Strike-Off)"
+      ],
+      "cta": "Talk to ROC Expert"
+    },
+    {
+      "title": "Auditing Services",
+      "img": "/images/services/audit.svg",
+      "points": [
+        "Statutory Audit (Companies Act)",
+        "Tax Audit (Sec 44AB)",
+        "Internal Audit & Process Reviews",
+        "Stock Audit & Compliance Reviews",
+        "Audit Report Preparation"
+      ],
+      "cta": "Request Audit Support"
+    },
+    {
+      "title": "Business Valuation & CFO Services",
+      "img": "/images/services/cfo-services.svg",
+      "points": [
+        "Business Valuation for Investors",
+        "Virtual CFO Services",
+        "Financial Projections & Budgeting",
+        "Cash Flow Management",
+        "Investor Reporting"
+      ],
+      "cta": "Hire Virtual CFO"
+    },
+    {
+      "title": "Trademark & IP Registration",
+      "img": "/images/services/trademark.svg",
+      "points": [
+        "Trademark Search & Registration",
+        "Trademark Objection Reply",
+        "Copyright Filing",
+        "Logo Design & Protection",
+        "Renewal & Assignment Services"
+      ],
+      "cta": "Protect My Brand"
+    }
+  ]
+}

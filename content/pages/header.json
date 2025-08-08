@@ -1,0 +1,72 @@
+{
+  "title": "Aditya Professional Services",
+  "mob_title": "Aditya Professional's",
+  "description": "Services That Drive Your Success",
+  "logo": {
+    "src": "logo.webp",
+    "alt": "APS LOGO"
+  },
+  "button": {
+    "href": "/schedule",
+    "label": "Book Consultation"
+  },
+  "navigation": [
+    {
+      "type": 1,
+      "text": "Home",
+      "path": "/"
+    },
+    {
+      "type": 1,
+      "text": "About Us",
+      "path": "/about"
+    },
+    {
+      "type": 0,
+      "text": "Services",
+      "path": "/services",
+      "list": [
+        {
+          "title": "Accounting & Bookkeeping",
+          "desc": "Professional bookkeeping and financial records maintenance.",
+          "path": ""
+        },
+        {
+          "title": "Tax Planning & Filing",
+          "desc": "Expert help with IT returns, GST, and tax saving strategies."
+        },
+        {
+          "title": "Audit & Assurance",
+          "desc": "Statutory, internal, and forensic audit services."
+        },
+        {
+          "title": "Business Registration",
+          "desc": "Company, LLP, and startup registration services."
+        },
+        {
+          "title": "Compliance & Regulatory",
+          "desc": "ROC filings, GST returns, and other legal compliances."
+        },
+        {
+          "title": "Financial Advisory",
+          "desc": "Investment planning and financial consulting services."
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "text": "Resources",
+      "path": "/resources"
+    },
+    {
+      "type": 1,
+      "text": "Testimonials",
+      "path": "/testimonials"
+    },
+    {
+      "type": 1,
+      "text": "Contact Us",
+      "path": "/contact"
+    }
+  ]
+}

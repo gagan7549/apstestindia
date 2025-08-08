@@ -1,0 +1,16 @@
+  {
+    "heading": "Trusted by Businesses Across India",
+    "description": "We partner with businesses of all sizes across diverse industries to provide expert financial solutions.",
+    "list": [
+      { "label": "Startups", "image": "https://placehold.co/150x60?text=Startups", "alt": "Startup Companies" },
+      { "label": "Traders & Exporters", "image": "https://placehold.co/150x60?text=Traders", "alt": "Traders & Exporters" },
+      { "label": "NGOs", "image": "https://placehold.co/150x60?text=NGOs", "alt": "NGOs" },
+      { "label": "Private Limited Companies", "image": "https://placehold.co/150x60?text=Pvt+Ltd", "alt": "Private Limited Companies" },
+      { "label": "Freelancers", "image": "https://placehold.co/150x60?text=Freelancers", "alt": "Freelancers" },
+      { "label": "Manufacturing Units", "image": "https://placehold.co/150x60?text=Manufacturing", "alt": "Manufacturing Units" }
+    ],
+    "quote": {
+      "text": "Their expert team guided us through company registration and GST returns effortlessly.",
+      "saidBy": "Startup Founder, Noida"
+    }
+  }

@@ -1,0 +1,22 @@
+  {
+    "heading": "Frequently Asked Questions",
+    "description": "Have questions? We've got answers.",
+    "list": [
+      {
+        "question": "How long does company registration take?",
+        "answer": "Usually 7–10 working days with complete documentation."
+      },
+      {
+        "question": "Can I get help with both GST and Income Tax?",
+        "answer": "Absolutely. We specialize in both GST compliance and income tax filing."
+      },
+      {
+        "question": "Do you help with NGO registration?",
+        "answer": "Yes, we assist with Trust, Society, and Section 8 Company registration."
+      },
+      {
+        "question": "What documents are needed for DSC?",
+        "answer": "PAN, Aadhar, passport-sized photo, and mobile/email verification."
+      }
+    ]
+  }

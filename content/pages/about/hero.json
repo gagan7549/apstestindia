@@ -1,0 +1,13 @@
+{
+  "title": "Empowering Businesses With ",
+  "title2": "Financial Clarity",
+  "description": "Aditya Professional Services is a trusted CA firm delivering expert accounting, audit, tax planning, and financial consulting for startups, SMBs, and enterprises. We help you focus on growth while we manage the numbers.",
+  "button": {
+    "text":"Book a Consultation",
+    "href":"/schedule#schedule"
+  },
+  "image": {
+    "src":"/stock/test.png",
+    "alt":"office photo"
+  }
+}

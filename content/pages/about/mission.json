@@ -1,0 +1,35 @@
+{
+  "heading": "Our Core Principles",
+  "sections": [
+    {
+      "type": "mission",
+      "title": "Our Mission",
+      "icon": {
+        "name": "fas fa-bullseye",
+        "backgroundColor": "var(--color-accent)/10",
+        "iconColor": "var(--color-accent-dark)"
+      },
+      "description": "Simplifying taxation and compliance for startups and SMEs through expert guidance, innovative solutions, and personalized service that puts your business first.",
+      "features": [
+        { "icon": "fa-check-circle", "text": "Streamlined financial processes", "color": "accent" },
+        { "icon": "fa-check-circle", "text": "Transparent communication", "color": "accent" },
+        { "icon": "fa-check-circle", "text": "Compliance without complexity", "color": "accent" }
+      ]
+    },
+    {
+      "type": "vision",
+      "title": "Our Vision",
+      "icon": {
+        "name": "fas fa-binoculars",
+        "backgroundColor": "var(--color-success)/10",
+        "iconColor": "var(--color-success)"
+      },
+      "description": "To be the most trusted financial advisors for growing businesses by redefining accounting excellence through innovation, integrity, and industry leadership.",
+      "features": [
+        { "icon": "fa-chart-line", "text": "Building financial futures", "color": "success" },
+        { "icon": "fa-hands-helping", "text": "Long-term partner relationships", "color": "success" },
+        { "icon": "fa-medal", "text": "Setting industry standards", "color": "success" }
+      ]
+    }
+  ]
+}
