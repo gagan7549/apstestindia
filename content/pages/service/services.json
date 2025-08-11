@@ -7,42 +7,42 @@
       "description": "Comprehensive audit services that provide stakeholders with confidence in your financial statements.",
       "image": "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/98621b40-3485-4abf-8a29-edfeb701b33e.png",
       "features": ["Statutory Audits", "Internal Audits", "Tax Audits", "Compliance Reviews"],
-      "link": "audit-assurance.html"
+      "path": "/services/audit-assurance"
     },
     {
       "title": "Tax Consulting",
       "description": "Strategic tax planning and compliance services to minimize liabilities and maximize benefits.",
       "image": "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/2097a242-e1fc-4dc7-8c9a-757b4b82705e.png",
       "features": ["Corporate Tax Planning", "International Taxation", "Tax Compliance", "Transfer Pricing"],
-      "link": "tax-consulting.html"
+      "path": "/services/tax-consulting"
     },
     {
       "title": "Financial Advisory",
       "description": "Expert financial advice to help you make informed decisions for sustainable business growth.",
       "image": "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/57e766a5-4789-4756-9b07-b611d662186b.png",
       "features": ["Business Valuation", "Mergers & Acquisitions", "Due Diligence", "Financial Restructuring"],
-      "link": "financial-advisory.html"
+      "path": "/services/financial-advisory"
     },
     {
       "title": "Accounting Services",
       "description": "Comprehensive accounting solutions to maintain accurate financial records and reporting.",
       "image": "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/790ab588-a1da-440c-b38e-9af4565eb550.png",
       "features": ["Bookkeeping", "Financial Reporting", "Payroll Processing", "Management Accounts"],
-      "link": "accounting-services.html"
+      "path": "/services/accounting-services"
     },
     {
       "title": "Corporate Law",
       "description": "Legal advisory services to ensure compliance with corporate laws and regulations.",
       "image": "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/9176b877-9e88-4d27-866a-d3bfba4f939d.png",
       "features": ["Company Formation", "Corporate Governance", "Regulatory Compliance", "Contract Review"],
-      "link": "corporate-law.html"
+      "path": "/services/corporate-law"
     },
     {
       "title": "Business Consulting",
       "description": "Strategic advice to optimize operations, improve efficiency, and drive business growth.",
       "image": "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/23d9a1c9-c006-4633-b85b-0b4668a951c6.png",
       "features": ["Business Strategy", "Process Improvement", "Risk Management", "Performance Analysis"],
-      "link": "business-consulting.html"
+      "path": "/services/business-consulting"
     }
   ]
 }
