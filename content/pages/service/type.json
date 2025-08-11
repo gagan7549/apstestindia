@@ -1,0 +1,164 @@
+{
+  "tax-consulting": {
+    "title": "Tax Consulting",
+    "subtitle": "Strategic tax planning and compliance services to minimize liabilities and maximize benefits.",
+    "heroImage": "/images/tax-consulting.jpg",
+    "services": [
+      {
+        "title": "Corporate Tax Planning",
+        "description": "Develop strategies to optimize corporate tax positions and enhance cash flow."
+      },
+      {
+        "title": "International Taxation",
+        "description": "Manage cross-border tax implications and comply with global tax regulations."
+      },
+      {
+        "title": "Tax Compliance",
+        "description": "Ensure timely and accurate filing of all required tax returns and documents."
+      },
+      {
+        "title": "Transfer Pricing",
+        "description": "Design and document compliant transfer pricing policies for multinational operations."
+      }
+    ],
+    "steps": [
+      { "title": "Assess Your Tax Needs", "desc": "We analyze your current tax position and risk areas." },
+      { "title": "Plan Strategically", "desc": "Custom strategies to reduce liabilities while staying compliant." },
+      { "title": "Implement Solutions", "desc": "Seamless integration of tax-saving measures into your business." },
+      { "title": "Monitor & Adjust", "desc": "Ongoing support to adapt to evolving tax laws." }
+    ],
+    "industries": [
+      { "name": "Corporate Enterprises", "icon": "🏢" },
+      { "name": "Startups", "icon": "🚀" },
+      { "name": "Global Businesses", "icon": "🌍" },
+      { "name": "Financial Institutions", "icon": "🏦" },
+      { "name": "Manufacturing", "icon": "🏭" },
+      { "name": "Healthcare", "icon": "🏥" }
+    ]
+  },
+  "financial-advisory": {
+    "title": "Financial Advisory",
+    "subtitle": "Expert financial advice to help you make informed decisions for sustainable business growth.",
+    "heroImage": "/images/financial-advisory.jpg",
+    "services": [
+      { "title": "Business Valuation", "description": "Determine the true value of your business for sale, merger, or investment." },
+      { "title": "Mergers & Acquisitions", "description": "Advisory for buying, selling, or merging businesses to maximize value." },
+      { "title": "Due Diligence", "description": "Thorough analysis to identify risks and opportunities before a deal." },
+      { "title": "Financial Restructuring", "description": "Reorganize financial structures to improve liquidity and profitability." }
+    ],
+    "steps": [
+      { "title": "Understand Goals", "desc": "We begin by identifying your financial objectives." },
+      { "title": "Analyze Position", "desc": "Detailed review of financial statements and performance metrics." },
+      { "title": "Recommend Strategies", "desc": "Clear, actionable advice tailored to your business." },
+      { "title": "Support Execution", "desc": "Hands-on assistance to implement recommendations." }
+    ],
+    "industries": [
+      { "name": "Private Equity", "icon": "💼" },
+      { "name": "Startups", "icon": "🚀" },
+      { "name": "Manufacturing", "icon": "🏭" },
+      { "name": "Technology", "icon": "💻" },
+      { "name": "Healthcare", "icon": "🏥" },
+      { "name": "Retail", "icon": "🛍" }
+    ]
+  },
+  "accounting-services": {
+    "title": "Accounting Services",
+    "subtitle": "Comprehensive accounting solutions to maintain accurate financial records and reporting.",
+    "heroImage": "/images/accounting-services.jpg",
+    "services": [
+      { "title": "Bookkeeping", "description": "Accurate recording of all financial transactions for smooth operations." },
+      { "title": "Financial Reporting", "description": "Prepare detailed financial statements to guide business decisions." },
+      { "title": "Payroll Processing", "description": "Timely and accurate payroll management for employees and contractors." },
+      { "title": "Management Accounts", "description": "Regular reports to monitor business performance and profitability." }
+    ],
+    "steps": [
+      { "title": "Gather Financial Data", "desc": "We collect all required documents and records." },
+      { "title": "Organize & Record", "desc": "Systematic bookkeeping for accuracy and compliance." },
+      { "title": "Prepare Reports", "desc": "Generate meaningful financial statements and insights." },
+      { "title": "Review & Advise", "desc": "Provide recommendations based on financial analysis." }
+    ],
+    "industries": [
+      { "name": "Small Businesses", "icon": "🏪" },
+      { "name": "Corporations", "icon": "🏢" },
+      { "name": "Non-Profits", "icon": "🤝" },
+      { "name": "Startups", "icon": "🚀" },
+      { "name": "Freelancers", "icon": "🧑‍💻" },
+      { "name": "Manufacturing", "icon": "🏭" }
+    ]
+  },
+  "corporate-law": {
+    "title": "Corporate Law",
+    "subtitle": "Legal advisory services to ensure compliance with corporate laws and regulations.",
+    "heroImage": "/images/corporate-law.jpg",
+    "services": [
+      { "title": "Company Formation", "description": "End-to-end assistance for registering and establishing your company." },
+      { "title": "Corporate Governance", "description": "Ensure your company follows best practices and regulatory requirements." },
+      { "title": "Regulatory Compliance", "description": "Navigate complex legal requirements with confidence." },
+      { "title": "Contract Review", "description": "Analyze and draft contracts to protect your business interests." }
+    ],
+    "steps": [
+      { "title": "Understand Requirements", "desc": "We assess your legal and compliance needs." },
+      { "title": "Develop Compliance Plan", "desc": "Create a roadmap for meeting legal obligations." },
+      { "title": "Implement Safeguards", "desc": "Put in place policies and controls for protection." },
+      { "title": "Ongoing Legal Support", "desc": "Continuous guidance for evolving regulations." }
+    ],
+    "industries": [
+      { "name": "Corporate Enterprises", "icon": "🏢" },
+      { "name": "Startups", "icon": "🚀" },
+      { "name": "Manufacturing", "icon": "🏭" },
+      { "name": "Technology", "icon": "💻" },
+      { "name": "Healthcare", "icon": "🏥" },
+      { "name": "Retail", "icon": "🛍" }
+    ]
+  },
+  "business-consulting": {
+    "title": "Business Consulting",
+    "subtitle": "Strategic advice to optimize operations, improve efficiency, and drive business growth.",
+    "heroImage": "/images/business-consulting.jpg",
+    "services": [
+      { "title": "Business Strategy", "description": "Develop long-term strategies for growth and competitive advantage." },
+      { "title": "Process Improvement", "description": "Identify inefficiencies and streamline workflows." },
+      { "title": "Risk Management", "description": "Implement frameworks to identify, assess, and mitigate risks." },
+      { "title": "Performance Analysis", "description": "Evaluate KPIs to measure and enhance organizational performance." }
+    ],
+    "steps": [
+      { "title": "Assess Current State", "desc": "We analyze your business model, processes, and market position." },
+      { "title": "Identify Opportunities", "desc": "Highlight areas for improvement and innovation." },
+      { "title": "Create Action Plan", "desc": "Develop a step-by-step roadmap for execution." },
+      { "title": "Guide Implementation", "desc": "Support you through change management and adoption." }
+    ],
+    "industries": [
+      { "name": "Startups", "icon": "🚀" },
+      { "name": "Manufacturing", "icon": "🏭" },
+      { "name": "Technology", "icon": "💻" },
+      { "name": "Healthcare", "icon": "🏥" },
+      { "name": "Retail", "icon": "🛍" },
+      { "name": "Corporate Enterprises", "icon": "🏢" }
+    ]
+  },
+  "audit-assurance": {
+    "title": "Audit & Assurance",
+    "subtitle": "Statutory, internal, and forensic audit services for compliance and trust.",
+    "heroImage": "/images/audit-assurance.jpg",
+    "services": [
+      { "title": "Statutory Audit", "description": "Mandatory audits to ensure compliance with regulatory requirements." },
+      { "title": "Internal Audit", "description": "Evaluate internal controls and operational efficiency." },
+      { "title": "Forensic Audit", "description": "Investigate financial discrepancies and fraud." },
+      { "title": "Compliance Audit", "description": "Review adherence to laws, regulations, and internal policies." }
+    ],
+    "steps": [
+      { "title": "Plan the Audit", "desc": "Define scope, objectives, and methodology." },
+      { "title": "Collect Evidence", "desc": "Gather relevant financial records and documents." },
+      { "title": "Evaluate Findings", "desc": "Analyze data to identify strengths and weaknesses." },
+      { "title": "Report & Advise", "desc": "Deliver actionable recommendations for improvement." }
+    ],
+    "industries": [
+      { "name": "Corporate Enterprises", "icon": "🏢" },
+      { "name": "Startups", "icon": "🚀" },
+      { "name": "Financial Institutions", "icon": "🏦" },
+      { "name": "Manufacturing", "icon": "🏭" },
+      { "name": "Healthcare", "icon": "🏥" },
+      { "name": "Retail", "icon": "🛍" }
+    ]
+  }
+}
