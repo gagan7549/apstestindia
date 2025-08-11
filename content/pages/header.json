@@ -27,29 +27,34 @@
       "path": "/services",
       "list": [
         {
-          "title": "Accounting & Bookkeeping",
-          "desc": "Professional bookkeeping and financial records maintenance.",
-          "path": ""
-        },
-        {
-          "title": "Tax Planning & Filing",
-          "desc": "Expert help with IT returns, GST, and tax saving strategies."
-        },
-        {
-          "title": "Audit & Assurance",
-          "desc": "Statutory, internal, and forensic audit services."
-        },
-        {
-          "title": "Business Registration",
-          "desc": "Company, LLP, and startup registration services."
-        },
-        {
-          "title": "Compliance & Regulatory",
-          "desc": "ROC filings, GST returns, and other legal compliances."
+          "title": "Tax Consulting",
+          "desc": "Strategic tax planning and compliance services to minimize liabilities and maximize benefits.",
+          "path": "/tax-consulting"
         },
         {
           "title": "Financial Advisory",
-          "desc": "Investment planning and financial consulting services."
+          "desc": "Expert financial advice to help you make informed decisions for sustainable business growth.",
+          "path": "/financial-advisory"
+        },
+        {
+          "title": "Accounting Services",
+          "desc": "Comprehensive accounting solutions to maintain accurate financial records and reporting.",
+          "path": "/accounting-services"
+        },
+        {
+          "title": "Corporate Law",
+          "desc": "Legal advisory services to ensure compliance with corporate laws and regulations.",
+          "path": "/corporate-law"
+        },
+        {
+          "title": "Business Consulting",
+          "desc": "Strategic advice to optimize operations, improve efficiency, and drive business growth.",
+          "path": "/business-consulting"
+        },
+        {
+          "title": "Audit & Assurance",
+          "desc": "Statutory, internal, and forensic audit services for compliance and trust.",
+          "path": "/audit-assurance"
         }
       ]
     },
